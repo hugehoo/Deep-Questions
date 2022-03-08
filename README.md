@@ -85,8 +85,7 @@
 
 . Socket 으로 웹 페이지를 크롤링하는 HTTP 클라이언트를 직접 구현해야 한다면, 어떻게 하시겠습니까?
 
-[[interview-questions-database]]
-=== 데이터베이스
+### 데이터베이스
 
 . noSQL 과 RDB 의 특징, 차이에 대해 말씀해주세요. 어느 상황에 어떤 데이터베이스를 쓰는게 좋겠습니까?
 
@@ -120,8 +119,8 @@
 
 . (JPA 경험자 한정) JPA 의 `@Entity` 란 뭔가요? 도메인 객체와 Entity 객체를 각각 어떻게 정의하시겠습니까?
 
-[[interview-questions-data-structure-algorithm]]
-=== 자료 구조 및 알고리즘
+
+### 자료 구조 및 알고리즘
 
 . 지금 사용하시는 스마트폰의 화면을 캡쳐하는 프로그램을 만들어야 한다면 어떻게 하시겠습니까?
 
@@ -153,8 +152,7 @@
 
 - [X] 배열과 `ArrayList`, `LinkedList` 의 차이점은 무엇인가요?
 
-[[interview-questions-design-testing]]
-=== 디자인 및 테스트
+### 디자인 및 테스트
 
 - [ ] Singleton pattern 이란 무엇이고, 어떤 장점과 단점이 있을까요?
 
